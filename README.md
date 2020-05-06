@@ -1,5 +1,5 @@
 # Topological Sort for Sentence Ordering
-Code accompanying the paper: [Topological Sort for Sentence Ordering](https://www.cs.cmu.edu/~sprabhum/docs/Topological_Sort_for_Sentence_Ordering.pdf)
+Code accompanying the paper: [Topological Sort for Sentence Ordering](https://arxiv.org/pdf/2005.00432.pdf)
 
 ## Pre-requisites
 - Python 3.6
